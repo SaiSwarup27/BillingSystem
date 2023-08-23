@@ -1,6 +1,6 @@
 # Billing System Node.js Server
 
-This is a Node.js server implementation for a billing system that provides various features for managing invoicing, payments, and financial transactions efficiently.
+This is a Node.js server implementation for a billing system
 
 ## Table of Contents
 - [Features](#features)
