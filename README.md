@@ -50,7 +50,7 @@ This is a Node.js server implementation for a billing system that provides vario
   npm start
 
 ## API Documentation
-- The API endpoints are documented in the API Documentation file.
+- The API endpoints are documented in the [API Documentation](https://github.com/SaiSwarup27/BillingSystem/blob/main/BillingSystem.postman_collection.json) file.
 
 ## Postman Collection
-- Import the Postman Collection JSON file to test the APIs using Postman.
+- Import the [Postman Collection](https://github.com/SaiSwarup27/BillingSystem/blob/main/BillingSystem.postman_collection.json) JSON file to test the APIs using Postman.
