@@ -4,6 +4,7 @@ const app = express();
 const port = 3000;
 require("dotenv").config()
 const dblink = process.env.dblink;
+// dblink = "mongodb+srv://Swarup:Swarup2003@cluster0.eoh2hfk.mongodb.net/BillingSystem?retryWrites=true&w=majority"; // for testing
 
 // Connect to MongoDB
 async function connection(){
