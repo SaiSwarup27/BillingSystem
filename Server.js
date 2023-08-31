@@ -4,7 +4,6 @@ const app = express();
 const port = 3000;
 require("dotenv").config()
 const dblink = process.env.dblink;
-
 // Connect to MongoDB
 async function connection(){
   try{
